@@ -5,3 +5,4 @@ open cmd and locate to the folder you installed integrity_checker.py with cd /pa
 
 
 Run the following
+ - python integrity_checker.py --generate /path/to/the/directory/to/check
