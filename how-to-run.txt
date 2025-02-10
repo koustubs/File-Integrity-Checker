@@ -4,3 +4,4 @@ download files into a specific folder
 open cmd and locate to the folder you installed integrity_checker.py with cd /path/to/your/folder
 
 
+Run the following
