@@ -1,1 +1,2 @@
 - few megabytes of space
+- a directory to check
